@@ -67,7 +67,7 @@ def download(sd,            # Insert start dates ([...], datetime)
 #from datetime import datetime
 
 ''' Setting Work-directory '''
-#os.chdir('C:/Users/maxch/OneDrive/Desktop/Year 3 Moduels/Trading, Market Design and Application/Project 2/My Code')
+#os.chdir(os.path.dirname(os.path.realpath(__file__)))
 
 ''' Set variables '''
 #sd = [datetime(2023,1,23), datetime(2023,1,30), datetime(2023,2,6), datetime(2023,2,13), datetime(2023,2,20), datetime(2023,2,27), datetime(2023,3,6), datetime(2023,3,13)]
