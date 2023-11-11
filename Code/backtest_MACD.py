@@ -9,7 +9,7 @@ import pandas as pd
 import os as os
 
 ''' Setting Work-directory '''
-os.chdir('C:/Users/maxch/OneDrive/Desktop/Year 3 Moduels/Trading, Market Design and Application/Project 2/My Code')
+os.chdir(os.path.dirname(os.path.realpath(__file__)))
 
 ''' Import functions '''
 import preanalysis_functions as pre
