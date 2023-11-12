@@ -1,6 +1,6 @@
 # Intraday Daytrading Experiment
 
-In this third-year university project for Trading, Market Design & Application, I simulate the role of an FX market maker using Excel. I attempt to quote FX forward and option contracts, assess spot delta risk exposure, perform delta hedging, and explain portfolio PnL through basic Greeks summation. The accompanying Technical Report describes the experiments process and discusses my findings. Please download the Excel file for the experiments outcome and see the PDF file for the detailed Technical Report.
+In this third-year university project for Trading, Market Design & Application, I simulate the role of an intraday trader by back and forward testing a trading stregy that uses the . I attempt to quote FX forward and option contracts, assess spot delta risk exposure, perform delta hedging, and explain portfolio PnL through basic Greeks summation. The accompanying Technical Report describes the experiments process and discusses my findings. Please download the Excel file for the experiments outcome and see the PDF file for the detailed Technical Report.
 
 ## Table of contents
 1. [Objectives](#objectives)
