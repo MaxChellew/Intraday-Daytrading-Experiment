@@ -21,4 +21,7 @@ Following is the knowledge I acquired from completing this project:
 - Data anyalsis in python
 - Moving Averages & Exoponetial Moving Averages
 - MACD Technical Indicator
-- Performance Measures (
+- Performance Measures: Avg.Ret Tot.Ret Std.Ret Sharpe.Ratio Tot.PnL Win.Ratio
+- Performance Measure (forward test exclusive): t-test
+- Volatility smiles
+- 
