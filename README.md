@@ -18,7 +18,7 @@ Following are the objectives for this project:
 ## Key Takeaways
 Following is the knowledge I acquired from completing this project:
 - Withdrawing market data from Yahoo finance in python
-- Data anyalsis in python
+- Data anyalsis using Pandas
 - Moving Averages & Exoponetial Moving Averages
 - MACD Technical Indicator
 - Performance Measures: Avg.Ret Tot.Ret Std.Ret Sharpe.Ratio Tot.PnL Win.Ratio
