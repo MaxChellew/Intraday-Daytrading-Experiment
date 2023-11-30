@@ -24,4 +24,3 @@ Following is the knowledge I acquired from completing this project:
 - Performance Measures: Avg.Ret Tot.Ret Std.Ret Sharpe.Ratio Tot.PnL Win.Ratio
 - Performance Measure (forward test exclusive): t-test
 - Volatility smiles
-- 
